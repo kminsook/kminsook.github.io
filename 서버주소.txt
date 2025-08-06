@@ -1,0 +1,10 @@
+http://127.0.0.1:5500/introduction.html
+
+서버주소: 127.0.0.1 => 도메인 ihongss.com
+포트번호: :5500
+파일: introduction.html
+
+태그에는 display가 기본적으로 
+block => 스타일 변경, 한줄 내림, 
+inline, => 스타일 변경안됨, 가로로 배치
+inline-block => 스타일변경, 가로로배치
